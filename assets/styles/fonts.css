@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Red Hat Display", serif;
+  src: url("../fonts/static/RedHatDisplay-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Red Hat Display", serif;
+  src: url("../fonts/static/RedHatDisplay-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Red Hat Display", serif;
+  src: url("../fonts/static/RedHatDisplay-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: 900;
+}
